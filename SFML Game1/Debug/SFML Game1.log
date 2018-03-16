@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\c00207281\documents\visual studio 2017\projects\sfml game1\sfml game1\particlesystem.h(17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+c:\users\c00207281\documents\visual studio 2017\projects\sfml game1\sfml game1\particlesystem.h(17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00207281\documents\visual studio 2017\projects\sfml game1\sfml game1\fire.h(2): error C2011: 'fire': 'class' type redefinition
+  c:\users\c00207281\documents\visual studio 2017\projects\sfml game1\sfml game1\fire.h(2): note: see declaration of 'fire'
+c:\users\c00207281\documents\visual studio 2017\projects\sfml game1\sfml game1\fire.h(11): error C2027: use of undefined type 'fire'
+  c:\users\c00207281\documents\visual studio 2017\projects\sfml game1\sfml game1\fire.h(2): note: see declaration of 'fire'
+c:\users\c00207281\documents\visual studio 2017\projects\sfml game1\sfml game1\fire.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\c00207281\documents\visual studio 2017\projects\sfml game1\sfml game1\fire.h(13): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+c:\users\c00207281\documents\visual studio 2017\projects\sfml game1\sfml game1\fire.h(15): error C2027: use of undefined type 'fire'
+  c:\users\c00207281\documents\visual studio 2017\projects\sfml game1\sfml game1\fire.h(2): note: see declaration of 'fire'
+c:\users\c00207281\documents\visual studio 2017\projects\sfml game1\sfml game1\fire.h(16): fatal error C1903: unable to recover from previous error(s); stopping compilation
